@@ -4,4 +4,4 @@ import snowflake.connector
 import requests
 from urllib.error import URLError
 
-streamlit.title('Zena's Amazing Athleisure Catalog')
+streamlit.title("Zena's Amazing Athleisure Catalog")
